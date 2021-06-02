@@ -12,3 +12,13 @@ for i in range(0,10,2):
     if i==8:
         i=i+12
         print(i)
+        
+        
+# OR
+
+
+for i in range(0,10,2):
+    print(i,end="+")
+    if i==8:
+        i=i+12
+        print(str(i))
