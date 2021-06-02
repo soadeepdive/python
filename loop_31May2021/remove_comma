@@ -1,0 +1,6 @@
+#this wont work but to remove the comma , i am trying to save in string 
+
+for i in range(1,10):
+    if i%2!=0:
+        numbers = numbers + (i) + ","
+        print(numbers[:-1])
