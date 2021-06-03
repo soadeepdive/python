@@ -1,3 +1,22 @@
-number = int(input( "Enter any number "))
-for i in range (0, 11 ):
-    print( i , " x " , number , "=" , i*number )
+# Multiplication Tables 
+
+number = int(input( "Enter any number "))                   # get the number from user 
+for i in range (0, 11 ):                                    # need till 10 numbers , so start is 0 and end is 11 , it takes till 10 
+    print( i , " x " , number , "=" , i*number )            # i value will be iterated or increase for each loop and the input remains constant
+    
+    
+# Sample output    
+# Enter any number 5
+# 0  x  5 = 0
+# 1  x  5 = 5
+# 2  x  5 = 10
+# 3  x  5 = 15
+# 4  x  5 = 20
+# 5  x  5 = 25
+# 6  x  5 = 30
+# 7  x  5 = 35
+# 8  x  5 = 40
+# 9  x  5 = 45
+# 10  x  5 = 50
+
+
