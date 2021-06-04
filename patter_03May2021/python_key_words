@@ -1,0 +1,94 @@
+KEY WORDS IN PYTHON 
+
+**************** TILL NOW LEARNT
+
+
+and
+
+
+
+else :
+-------
+
+a = int(input("a "))
+b = int(input("b "))
+c = int(input("c "))
+if(a>b):
+    if (a>c):
+        print(" a is greater ")
+print(" iam here ")
+if(b>a):
+    if(b>c):
+        print(" b is greater ")
+    else:
+        print(" c is greater ")
+
+
+
+
+elif :
+-------
+
+a = int(input("a "))
+b = int(input("b "))
+c = int(input("c "))
+if(a>b):
+    if (a>c):
+        print(" a is greater ")
+elif(b>a):
+    if(b>c):
+        print(" b is greater ")
+else:
+    print(" c is greater ")
+
+
+
+
+for :
+------
+
+for i in range (1,6):
+    for j in range(1,4):
+        print(j,i,end=" ")
+    print()
+
+
+if :
+-----
+
+a = int(input("a "))
+b = int(input("b "))
+c = int(input("c "))
+if(a>b):
+    if (a>c):
+        print(" a is greater ")
+print(" iam here ")
+if(b>a):
+    if(b>c):
+        print(" b is greater ")
+    else:
+        print(" c is greater ")
+
+
+in :
+-----
+
+for i in range (1,6):
+    for j in range(1,4):
+        print(j,i,end=" ")
+    print()
+
+
+or :
+-----
+
+
+
+
+
+
+
+
+
+
+
