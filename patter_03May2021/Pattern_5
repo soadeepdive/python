@@ -1,0 +1,43 @@
+for i in range(1,6):
+    for j in range(5,0,-1):
+        print(j,end="")
+    print()
+    
+    
+#Iteration :
+
+i               j               print               print
+1               5               5
+                4               54
+                3               543
+                2               5432
+                1               54321               next line
+2               5               5
+                4               54
+                3               543
+                2               5432
+                1               54321               next line
+3               5               5
+                4               54
+                3               543
+                2               5432
+                1               54321               next line
+4               5               5
+                4               54
+                3               543
+                2               5432
+                1               54321               next line
+5               5               5
+                4               54
+                3               543
+                2               5432
+                1               54321              next line
+
+
+#Output
+
+54321
+54321
+54321
+54321
+54321
