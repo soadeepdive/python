@@ -1,0 +1,43 @@
+for i in range(1,6):
+    for j in range(1,6):
+        print(j,end="")
+    print()
+    
+
+#Iteration :
+
+i               j               print               print
+1               1               1
+                2               12
+                3               123
+                4               1234
+                5               12345               next line
+2               1               1
+                2               12
+                3               123
+                4               1234
+                5               12345               next line
+3               1               1
+                2               12
+                3               123
+                4               1234
+                5               12345               next line
+4               1               1
+                2               12
+                3               123
+                4               1234
+                5               12345               next line
+5               1               1
+                2               12
+                3               123
+                4               1234
+                5               12345              next line
+                
+
+#output
+
+12345
+12345
+12345
+12345
+12345
